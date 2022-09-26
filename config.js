@@ -41,11 +41,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['ur number'] //ur owner number
-global.ownername = "ur name"
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['8945514787'] //ur owner number
+global.ownername = "Minase"
+global.ytname = "none" //ur yt chanel name
+global.socialm = "GitHub: minase02" //ur github or insta name
+global.location = "India, West bengal, Kurseong" //ur location
 
 //bot bombdy
 global.botname = "ur bot name" //ur bot name
